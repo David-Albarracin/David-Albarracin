@@ -3,14 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-albarracin&label=Profile%20views&color=0e75b6&style=flat" alt="david-albarracin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-albarracin" alt="david-albarracin" /></a> </p>
-
-- 🔭 I’m currently working on **Kakarot Collector**
+- 🔭 I’m currently working on **DSRsoluciones**
 
 - 🌱 I’m currently learning **IONIC**
 
+- 👯 I’m looking to collaborate on **DSRsoluciones**
+
+- 🤝 I’m looking for help with **DSRsoluciones**
+
+- 💬 Ask me about **AI**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/david-albarracin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-albarracin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dsrdaspro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dsrdaspro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-albarracin&show_icons=true&locale=en&layout=compact" alt="david-albarracin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-albarracin&show_icons=true&locale=en" alt="david-albarracin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-albarracin&show_icons=true&theme=dark&locale=en" alt="david-albarracin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-albarracin&" alt="david-albarracin" /></p>
 
