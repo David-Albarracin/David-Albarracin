@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Albarracin</h1>
-<h3 align="center">A Junior Web Developer Form Campusland</h3>
+<h3 align="center">A Junior Web Developer From Campusland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-albarracin&label=Profile%20views&color=0e75b6&style=flat" alt="david-albarracin" /> </p>
 
